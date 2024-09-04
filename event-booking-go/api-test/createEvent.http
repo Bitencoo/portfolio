@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R1c2VyQHRlc3QuY29tIiwiZXhwIjoxNzE0NjEwMDMxLCJ1c2VySWQiOjF9.kH6yy_W7GoIsUFXzp9olzTeHNxMh0rjZ46L9sPmWGgE
+
+{
+  "Name": "Sample Event",
+  "Description": "This is a sample description of an event.",
+  "Location": "1234 Sample Street, Example City, 90210",
+  "DateTime": "2023-04-25T15:04:05Z"
+}
