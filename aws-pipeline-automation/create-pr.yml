@@ -1,0 +1,24 @@
+name: Create PR from Develop to Main
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  create-pull-request:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: main
+          head: develop
+          title: "Automated PR: Merge Develop into Main"
+          body: "This pull request has been automatically created by GitHub Actions to merge changes from `develop` to `main`."
+          draft: false

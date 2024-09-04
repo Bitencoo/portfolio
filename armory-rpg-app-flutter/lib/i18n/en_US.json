@@ -1,0 +1,18 @@
+{
+    "dices": "Dices",
+    "historic": "History",
+    "about": "About",
+    "about-create-dice": "- To create a dice, click the '+' square box on the 'Dices' tab.",
+    "about-options-text": "- To edit or delete a dice, press and hold the desired dice. When the popup is visible, click on the 'Edit' or 'Delete' option.",
+    "about-roll-dice": "- To roll a dice just click on the desired dice on the Dices tab. After the roll of the dice, the result will be presented to the user (Adding the modifier), then, the result will be visible on the History tab.",
+    "about-remove-ads": "- The Remove Ads option will remove all currently Ads shown on the app. This is also a way of contributing to our work.",
+    "about-restore-purchase": "- The Restore Purchase will restore your purchase if you uninstalled the app or changed phone.",
+    "sides": "Sides",
+    "modifier": "Modifier",
+    "create-dice": "Create Dice",
+    "edit-dice": "Edit Dice",
+    "edit": "Edit",
+    "delete": "Delete",
+    "remove-ads": "Remove Ads",
+    "restore-purchase": "Restore Purchase"
+}

@@ -1,0 +1,18 @@
+{
+    "dices": "Dados",
+    "historic": "Histórico",
+    "about": "Sobre",
+    "about-create-dice": "- Para criar um dado, clique no quadrodo com '+' na aba 'Dados'.",
+    "about-options-text": "- Para editar ou deletar um dado, clique e segure o dado desejado. Quando o menu aparecer, clique na opção 'Editar' ou 'Deletar'.",
+    "about-roll-dice": "- Para rolar um dado basta clicar no dado desejado na aba 'Dados'. Depois de rolar o dado, o resultado será apresentado na tela e ficará salvo na aba 'Histórico' (Com o modificador adicionado).",
+    "about-remove-ads": "- A opção 'Remover Anúncios' irá remover todos os anúncios presentes no app. Também é uma maneira de contribuir com nosso trabalho.",
+    "about-restore-purchase": "- A opção 'Restaurar Compra' serve para restaurar a compra que você fez no app, caso desinstale o app ou troque de smartphone.",
+    "sides": "Lados",
+    "modifier": "Modificador",
+    "create-dice": "Criar Dado",
+    "edit-dice": "Editar Dado",
+    "edit": "Editar",
+    "delete": "Deletar",
+    "remove-ads": "Remover Anúncios",
+    "restore-purchase": "Restaurar Compra"
+}

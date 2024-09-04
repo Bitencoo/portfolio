@@ -1,0 +1,18 @@
+{
+    "dices": "Dados",
+    "historic": "Histórico",
+    "about": "Sobre",
+    "about-create-dice": "- Para crear un dado, haga clic en el cuadro con '+' en la pestaña 'Datos'.",
+    "about-options-text": "- Para editar o eliminar datos, haga clic y mantenga presionados los datos deseados. Cuando aparezca el menú, haga clic en la opción 'Editar' o 'Eliminar'.",
+    "about-roll-dice": "- Para lanzar un dado, simplemente haga clic en el dado deseado en la pestaña 'Dados'. Después de lanzar los dados, el resultado se mostrará en la pantalla y se guardará en la pestaña 'Histórico' (con el modificador agregado).",
+    "about-remove-ads": "- La opción 'Quitar Anuncios anuncios' eliminará todos los anuncios presentes en la aplicación. También es una forma de contribuir a nuestro trabajo.",
+    "about-restore-purchase": "- La opción 'Restaurar compra' se utiliza para restaurar la compra que realizó en la aplicación, si desinstala la aplicación o cambia su teléfono inteligente.",
+    "sides": "Lados",
+    "modifier": "Modificador",
+    "create-dice": "Crear Dado",
+    "edit-dice": "Editar Dado",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "remove-ads": "Quitar Anuncios",
+    "restore-purchase": "Restaurar Compra"
+}
